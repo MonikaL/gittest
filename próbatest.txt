@@ -1,1 +1,13 @@
 gitteszt fájl eredeti
+és most beleírok Volume in drive C has no label.
+ Volume Serial Number is B271-AD4A
+
+ Directory of C:\Users\Moncsika\Documents\gitrepo\gittest
+
+2018. 10. 08.  13:23    <DIR>          .
+2018. 10. 08.  13:23    <DIR>          ..
+2018. 04. 27.  08:37            69ÿ670 contacts.vcf
+2018. 10. 08.  13:23                48 parancssori pr¢ba text.txt
+2018. 10. 08.  13:16                39 pr¢batest.txt
+               3 File(s)         69ÿ757 bytes
+               2 Dir(s)  377ÿ283ÿ948ÿ544 bytes free
